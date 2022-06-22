@@ -3,6 +3,7 @@
 </svelte:head>
 
 <div class="w-full h-full p-10 prose">
+	<img class="w-48" src="/Logo.jpg" alt="Svelte Society ATL Logo" />
 	<h1 class="text-2xl font-bold">Svelte Society ATL</h1>
 	<p>Welcome to Svelte Society ATL. We're just getting started, so stay tuned.</p>
 	<p>
